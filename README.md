@@ -1,5 +1,13 @@
 # UltiMed-ASR-FR-v1: NeMo training scripts
 
+> [!CAUTION]
+> **Obsolete.** This repository trained the UltiMed **v1** model and is kept for reference only. Use [UltiMed-ASR-FR-v2-NeMo_training_scripts](https://github.com/UltiMed-Org/UltiMed-ASR-FR-v2-NeMo_training_scripts), which trains the current v2 model.
+
+> [!WARNING]
+> **Release in progress.** UltiMed v2 is being released right now. As long as this notice is here, files, links and numbers in this repository are still being changed.
+
+Part of [UltiMed-Org](https://github.com/UltiMed-Org), which lists every UltiMed repository, dataset and model.
+
 > [!IMPORTANT]
 > **Want faster improvements?** This project is entirely self-funded on my minimum-wage salary, and every training run competes for a single consumer GPU. If you or your organisation can donate an **RTX 5090**, or the money to buy one second-hand, it would directly speed up the next versions of the dataset and the fine-tuned models. Reach out via [olicorne.org](https://olicorne.org) or open an issue on this repository.
 
