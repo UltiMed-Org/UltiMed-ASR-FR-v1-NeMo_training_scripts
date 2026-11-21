@@ -97,7 +97,7 @@ branch tip is a working tree. Each commit message explains the why at length.
 ## Reproducing
 
 ```bash
-git clone https://github.com/thiswillbeyourgithub/UltiMed-ASR-FR-v1-NeMo_training_scripts
+git clone https://github.com/UltiMed-Org/UltiMed-ASR-FR-v1-NeMo_training_scripts
 uv venv --python=3.10.12
 uv pip install nemo_toolkit[asr] onnx==1.18.0 numba-cuda==0.15.1 cuda-core cuda-bindings \
   cuda-pathfinder cuda-python==13.1.1 tensorboard>=2.19.0 setuptools==81.0.0 \
